@@ -1,7 +1,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Yahya",                  // Place your name here (used in greeting section)
+  name: "Douae",                  // Place your name here (used in greeting section)
   photo: "./img/douae.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
@@ -60,8 +60,8 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "DOUAE",
+      text: "I don't know how to express my joy to you. Consider this a gift from",
+      author: "YAHYA",
     },
     {
       type: "stars",
